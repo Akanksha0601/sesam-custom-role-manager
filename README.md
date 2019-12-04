@@ -1,0 +1,1 @@
+# sesam-custom-role-manager
